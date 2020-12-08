@@ -3,6 +3,7 @@
     "license": "proprietary",
     "require": {
         "php": ">=7.4",
+        "ext-intl": "*",
         "ext-ctype": "*",
         "ext-iconv": "*",
         "botman/botman": "^2.6",
@@ -12,6 +13,7 @@
         "symfony/dotenv": "5.1.*",
         "symfony/flex": "^1.3.1",
         "symfony/framework-bundle": "5.1.*",
+        "symfony/http-client": "5.1.*",
         "symfony/twig-bundle": "5.1.*",
         "symfony/yaml": "5.1.*"
     },
